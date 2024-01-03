@@ -1,8 +1,8 @@
 # data-visualization
 HW-6 Data Visualization
 
-pymaceuticals_starter.ipynb (Actual File Used)
-pymaceutical - JupyterLab (Final Result).pdf (Printable Version of the Result)
+-pymaceuticals_starter.ipynb (Actual File Used)
+-pymaceutical - JupyterLab (Final Result).pdf (Printable Version of the Result)
 
 
 Background
